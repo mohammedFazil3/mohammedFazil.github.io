@@ -312,6 +312,7 @@ h1 > span {
   }
 
   .hero__rings {
+    position: absolute;
     top: 90px;
     right: auto;
     left: 0;
@@ -345,7 +346,7 @@ h1 > span {
   }
 
   .hero__description {
-    /* width: 70%; */
+    width: 70%;
     margin-block-end: 34px;
   }
 }
